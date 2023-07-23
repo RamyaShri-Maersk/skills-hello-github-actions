@@ -19,7 +19,7 @@ Hello my frnd
 -->
 
 
-_Congratulations friend, you've completed this course!_
+_Congratulations friend, you've completed this course!_ Hurray
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 
