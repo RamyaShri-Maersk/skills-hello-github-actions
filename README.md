@@ -10,7 +10,7 @@
 # Hello GitHub Actions
 
 _Create a GitHub Action and use it in a workflow._
-
+Hello my frnd
 </header>
 
 <!--
@@ -19,7 +19,7 @@ _Create a GitHub Action and use it in a workflow._
 -->
 
 
-_Congratulations friend, you've completed this course!_
+_Congratulations friend, you've completed this course!_ Hurray
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 
